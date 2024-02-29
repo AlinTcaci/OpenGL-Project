@@ -1,0 +1,112 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Hooks
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Hooks_baseColor.png
+map_Bump -bm 1.000000 Hooks_normal.png
+
+newmtl Metal
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Metal_baseColor.png
+map_Bump -bm 1.000000 Metal_normal.png
+
+newmtl Metal5
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Metal5_baseColor.png
+map_Bump -bm 1.000000 Metal5_normal.png
+
+newmtl Spiral
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Spiral_baseColor.png
+map_Bump -bm 1.000000 Spiral_normal.png
+
+newmtl Surface
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Surface_baseColor.png
+map_Bump -bm 1.000000 Surface_normal.png
+
+newmtl Wood
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Wood_baseColor.png
+map_Bump -bm 1.000000 Wood_normal.png
+
+newmtl bluemetal
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd bluemetal_baseColor.png
+map_Bump -bm 1.000000 bluemetal_normal.png
+
+newmtl metal2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd metal2_baseColor.png
+map_Bump -bm 1.000000 metal2_normal.png
+
+newmtl metal3
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd metal3_baseColor.png
+map_Bump -bm 1.000000 metal3_normal.png
+
+newmtl redmetla
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd redmetla_baseColor.png
+map_Bump -bm 1.000000 redmetla_normal.png

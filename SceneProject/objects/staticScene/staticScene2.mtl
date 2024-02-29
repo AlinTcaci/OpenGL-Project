@@ -1,0 +1,419 @@
+# Blender 4.0.2 MTL File: 'rustyScene.blend'
+# www.blender.org
+
+newmtl 15___Default
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 15___Default_baseColor.png
+
+newmtl Hands
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Hands_baseColor.png
+map_Ke Hands_emissive.png
+map_Bump -bm 1.000000 Hands_normal.png
+
+newmtl Legs
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Legs_baseColor.png
+map_Ke Legs_emissive.png
+map_Bump -bm 1.000000 Legs_normal.png
+
+newmtl Material.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd hammer_Base_color.png
+map_Ns hammer_Roughness.png
+map_refl hammer_Metallic.png
+map_Bump -bm 1.000000 hammer_Normal_OpenGL.png
+
+newmtl Material.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd DefaultMaterial_Base_color.png
+map_Ns DefaultMaterial_Roughness.png
+map_refl DefaultMaterial_Metallic.png
+map_Bump -bm 1.000000 DefaultMaterial_Normal_OpenGL.png
+
+newmtl Material.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd TT_color_00_Base_color.png
+map_Ns TT_color_00_Roughness.png
+map_refl TT_color_00_Metallic.png
+map_Bump -bm 1.000000 TT_color_00_Normal_OpenGL.png
+
+newmtl Material.004
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd TT_color_01_Base_color.png
+map_Ns TT_color_01_Roughness.png
+map_refl TT_color_01_Metallic.png
+map_Bump -bm 1.000000 TT_color_01_Normal_OpenGL.png
+
+newmtl Material.006
+Ns 47.550900
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Ground033_4K-JPG_Color.png
+
+newmtl Material.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Material.004_baseColor.png
+map_Ke Material.004_emissive.png
+
+newmtl Material.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Ground033_4K-JPG_Color.png
+
+newmtl Material.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Material_baseColor.png
+map_Bump -bm 1.000000 Material_normal.png
+
+newmtl Scene_-_Root
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Scene_-_Root_baseColor.png
+map_Bump -bm 1.000000 Scene_-_Root_normal.png
+
+newmtl Stone_trims
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Stone_trims_baseColor.png
+map_Bump -bm 1.000000 Stone_trims_normal.png
+
+newmtl Torse
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Torse_baseColor.png
+map_Ke Torse_emissive.png
+map_Bump -bm 1.000000 Torse_normal.png
+
+newmtl beams_dougong
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd beams_dougong_baseColor.png
+map_Bump -bm 1.000000 beams_dougong_normal.png
+
+newmtl beams_patterns
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd beams_patterns_baseColor.png
+map_Bump -bm 1.000000 beams_patterns_normal.png
+
+newmtl building_G
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd building_G_baseColor.png
+map_Bump -bm 1.000000 steam_control_system_normal.png
+
+newmtl glass
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.174992 0.320617 0.320617
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.460000
+illum 6
+
+newmtl house_B_pipes
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd house_B_pipes_baseColor.png
+map_Bump -bm 1.000000 steam_control_system_normal.png
+
+newmtl house_F_pipes
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd house_F_pipes_baseColor.png
+map_Bump -bm 1.000000 steam_control_system_normal.png
+
+newmtl house_c_pipes
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd house_c_pipes_baseColor.png
+map_Bump -bm 1.000000 steam_control_system_normal.png
+
+newmtl main_mat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd main_mat_baseColor.png
+map_Bump -bm 1.000000 main_mat_normal.png
+
+newmtl material_0.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd material_0_baseColor.png
+map_Bump -bm 1.000000 material_0_normal.png
+
+newmtl metal_fittings
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd metal_fittings_baseColor.png
+map_Bump -bm 1.000000 steam_control_system_normal.png
+
+newmtl pipes_low
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd pipes_low_baseColor.png
+map_Bump -bm 1.000000 pipes_low_normal.png
+
+newmtl props_A
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd props_A_baseColor.png
+map_Ke props_A_emissive.png
+map_Bump -bm 1.000000 props_A_normal.png
+
+newmtl props_B
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd props_B_baseColor.png
+map_Bump -bm 1.000000 props_B_normal.png
+
+newmtl roof_A
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd roof_A_baseColor.png
+map_Bump -bm 0.576331 roof_A_normal.png
+
+newmtl roof_B
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd roof_B_baseColor.png
+map_Bump -bm 0.691947 roof_B_normal.png
+
+newmtl scrap
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd scrap_baseColor.png
+map_Bump -bm 1.000000 scrap_normal.png
+
+newmtl steam_control_system
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd steam_control_system_baseColor.png
+map_Bump -bm 1.000000 steam_control_system_normal.png
+
+newmtl stonework
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd stonework_baseColor.png
+map_Bump -bm 1.000000 Stone_trims_normal.png
+
+newmtl trims_metal
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd trims_metal_baseColor.png
+map_Bump -bm 1.000000 trims_metal_normal.png
+
+newmtl trims_wood
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd trims_wood_baseColor.png
+map_Bump -bm 1.000000 trims_wood_normal.png
+
+newmtl wall_panels
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wall_panels_baseColor.png
+map_Bump -bm 1.000000 wall_panels_normal.png
+
+newmtl wall_planks
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wall_planks_baseColor.png
+map_Bump -bm 1.000000 wall_planks_normal.png
+
+newmtl wall_plaster
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wall_plaster_baseColor.png
+map_Bump -bm 1.000000 wall_plaster_normal.png
+
+newmtl wall_stone
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd wall_stone_baseColor.png
+map_Bump -bm 1.000000 wall_stone_normal.png
