@@ -48,7 +48,7 @@ The project utilizes OpenGL as its core rendering API, integrating GLSL shaders 
 
 ### Hot Keys for Enhanced Interaction
 
-| Key          | Action                                      |
+| Key(s)       | Action                                      |
 |--------------|---------------------------------------------|
 | M            | View shadow mapping                         |
 | O, P         | Activate/deactivate night mode              |
