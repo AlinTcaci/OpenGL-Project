@@ -1,4 +1,4 @@
-# Photorealistic Scene in OpenGL
+# Photorealistic Scene with OpenGL
 
 ## Overview
 
